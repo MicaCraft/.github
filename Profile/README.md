@@ -15,7 +15,7 @@ https://github.com/MicaGames
 
 This branch aim at developing classic games for Windows
 
-##  ![micaui](https://github.com/MicaCraft/.github/assets/6630660/ffa35621-8149-43bc-8f47-9a47e1716158) MicaUI
+##   ![micaui](https://github.com/MicaCraft/.github/assets/6630660/1f0b760c-f72d-42eb-8f93-3cf5e4e6a032) MicaUI
 https://github.com/MicaUI
 
 This brach aim at customizing themes/icons/styles of Windows, so that make them match the design of Fluent Design
