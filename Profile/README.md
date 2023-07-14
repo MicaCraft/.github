@@ -1,6 +1,6 @@
 # About
 
-We have three branch 
+There are three branches
 
 ##  ![micaapps](https://github.com/MicaCraft/.github/assets/6630660/1eb19e1d-e46f-40c7-8ad9-e4917783f4b8) MicaApps
 https://github.com/MicaApps
